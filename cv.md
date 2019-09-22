@@ -2,8 +2,7 @@
 
 > #### 1. NAME & SURNAME ####
 
-___ ### KURBAKOU VITALI
-   
+### KURBAKOU VITALI
    
 > #### 2. CONTACTS INFO ####
 
